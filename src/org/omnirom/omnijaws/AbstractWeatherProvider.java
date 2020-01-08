@@ -33,7 +33,7 @@ import java.net.URL;
 
 public abstract class AbstractWeatherProvider {
     private static final String TAG = "AbstractWeatherProvider";
-    private static final boolean DEBUG = false;
+    private static final boolean DEBUG = true;
     protected Context mContext;
 
     public AbstractWeatherProvider(Context context) {
