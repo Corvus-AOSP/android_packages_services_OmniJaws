@@ -20,4 +20,5 @@
 	<string name="owm_api_key" translatable="false" >395e3f10c03d1836b4764f092bda29ee</string>
 
 	<string name="accu_api_key" translatable="false" >srRLeAmTroxPinDG8Aus3Ikl6tLGJd94</string>
+	<string name="darksky_api_key" translatable="false" >58c9b90049cc9bbfe8362abe134ab7f6</string>
 </resources>
