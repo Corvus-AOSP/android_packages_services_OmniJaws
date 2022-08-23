@@ -98,6 +98,15 @@
 		</activity>
 
 		<activity
+			android:name=".weather_google"
+			android:label="Google weather icons" android:exported="false">
+			<intent-filter>
+				<action android:name="org.omnirom.WeatherIconPack" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+
+        <activity
 			android:name=".weather_vclouds"
 			android:label="LockClock (vclouds)" android:exported="false">
 			<intent-filter>
